@@ -26,3 +26,4 @@
 	}
 ?>
 	<img src="<?php print "\images\asdasd.png"; ?>" />
+	
